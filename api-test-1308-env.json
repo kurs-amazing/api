@@ -1,0 +1,48 @@
+{
+    "id": "d1824e37-e8aa-4d64-813d-09b40ed6a918",
+    "name": "api-test-11-08-env",
+    "values": [{
+            "key": "username",
+            "value": "admin",
+            "enabled": true
+        },
+        {
+            "key": "password",
+            "value": "admin",
+            "enabled": true
+        },
+        {
+            "key": "token",
+            "value": "",
+            "enabled": true
+        },
+        {
+            "key": "newNationality",
+            "value": "",
+            "enabled": true
+        },
+        {
+            "key": "newNationalityId",
+            "value": "",
+            "enabled": true
+        },
+        {
+            "key": "code",
+            "value": "",
+            "enabled": true
+        },
+        {
+            "key": "changedNationality",
+            "value": "",
+            "enabled": true
+        },
+        {
+            "key": "Code",
+            "value": "",
+            "enabled": true
+        }
+    ],
+    "_postman_variable_scope": "environment",
+    "_postman_exported_at": "2020-08-13T16:58:58.049Z",
+    "_postman_exported_using": "Postman/7.29.1"
+}
